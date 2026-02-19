@@ -1,0 +1,41 @@
+Experiences
+Consultant IA & Systèmes embarqués , Freelance 2 – Nantes, France Janv 2024- Aujourd’hui
+• Conception d’un dispositif IoT mesurant et transmettant des données environnementales à un serveur distant.
+• Benchmarks de solutions d’IA embarquée pour choisir les technologies les plus performantes.
+• Développement d’outils innovants : Askthings, Raspi-llm et bien d’autres,
+• Tech stack: Python, C/C++, freeRTOS, PyTorch
+Ingénieur R&D IA embarquée, stagiaire , Segula technologies – Cherbourg, France Avrl 2023 – Oct 2023
+• Développement de modèles d’IA pour la prédiction météorologique et la consommation énergétique des voiliers
+croisières.
+• Optimisé des modèles pour des contraintes strictes de mémoire, temps d’inférence et consommation d’énergie,
+• Conçu une plateforme intégrant les techniques d’apprentissage incrémental.
+• Tech stack:PyTorch, Python, Git, MLFlow, techniques d’optimisation.
+Ingénieur Systèmes embarqués/IoT, Remote, , Dokoda – Niamey, Niger Juil 2022 – Avrl 2023
+• Développement d’une solution de vision par ordinateur pour le tri automatisé en entrepôt.
+• Veille technologique sur l’Edge AI, l’IoT et les systèmes temps réel.
+• Tech stack: Python, C/C++, OpenCV, Edge AI frameworks, protocoles IoT.
+Ingénieur Computer vision & IoT, stagiaire, Expleo Group – Tanger, Maroc Fev 2022 – Juil 2022
+• Implémentation d’un système de gestion de trafic routier basé sur la vision par ordinateur.
+• Fonctionnalités : détection d’accidents, reconnaissance de plaques d’immatriculation, prédiction
+d’embouteillages.
+• Tech stack: PyTorch, Python, C++, OpenCV, Edge impulse
+Ingénieur logiciel embarqué, stagiaire, ENSA – Fes, Maroc Juil 2021 – Aout 2021
+• Personnalisation du logiciel open source ArduPilot pour des contrôleurs sur mesure.
+• Tests sur drones avec PixHawk
+• Tech stack : Python, C++,Waf, PixHawk, Mavlink.
+Education
+Université Lyon 1, Master Intelligence Artificielle (Option IoT/Systèmes
+embarqués)
+Sept 2022 – Oct 2023
+École Nationale de Sciences Appliquées Fès-Maroc, Diplôme ingénieur Systèmes
+embarqués & Informatique industrielle
+Sept 2017 – Jul 2022
+Technologies
+Langages de programmation : Python, C/C++
+Systèmes embarqués : FreeRTOS, Yocto/Buildroot, Raspberry Pi, ESP32, Arduino, FPGA, MicroPython
+IA embarquée : PyTorch, OpenCV, Edge AI, Edge impulse
+Protocoles et bus : BLE, Wifi, MQTT, COAP, UART, SPI, I2C, TCP/IP
+Outils et plateformes : AWS, Linux, git, Docker
+Langues
+• Anglais: Professionnel
+• Français: courant

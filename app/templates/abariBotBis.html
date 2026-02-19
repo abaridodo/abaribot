@@ -8,7 +8,7 @@
         @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
         body {
-            font-family: 'Press Start 2P', monospace;
+            font-family: "Nunito", "Quicksand", "Poppins", sans-serif;
             font-size: 16px;
             background-color: #000;
             color: #00ff00;
@@ -114,10 +114,10 @@
                 <p class="assistant"><strong>Assistant:</strong> Hello, ask me anything about Abari.</p>
             </div>
             <!-- Replace this block dynamically with a server or JS -->
-            {% for you, ass in conversation %}
+            {% for convo in conversation %}
             <div class="message">
-                <p class="user"><strong>You:</strong> {{ you }}</p>
-                <p class="assistant"><strong style="color:green">Assistant:</strong><img src="static/robot.webp" alt="Description of GIF" width="30" height="20" style="border: 2px solid black;"> {{ ass }}</p>
+                <p class="user"><strong>You:</strong> {{ convo.user }}</p>
+                <p class="assistant"><strong style="color:green">Assistant:</strong><img src="static/robot.webp" alt="Description of GIF" width="30" height="20" style="border: 2px solid black;"> {{ convo.bot }}</p>
             </div>
             {% endfor %}
         </div>

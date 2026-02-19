@@ -1,0 +1,4 @@
+Idea: Abaribot an assistant of Abari enhanced with Abari CV or description.
+
+requirements: Abaribot is an LLM assistant that answer any question related to Abari work,
+education background, experiences in some companies, 

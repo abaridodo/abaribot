@@ -64,10 +64,10 @@
     </p>
     
         <p class="AbariBot content"><em id="assistant">Assistant</em>: Hello, Ask anything about Abari.</p>
-        {% for you, ass in conversation %}
+        {% for convo in conversation %}
         <div class="message">
-            <p class="You content"><em id="you">You</em>: {{ you }}</p>
-            <p class="AbariBot content"><em id="assistant">Assistant</em><img src="static/robot.webp" alt="Description of GIF" width="30" height="20" style="border: 2px solid black;">: {{ ass }}</p>
+            <p class="You content"><em id="you">You</em>: {{ convo.user }}</p>
+            <p class="AbariBot content"><em id="assistant">Assistant</em><img src="static/robot.webp" alt="Description of GIF" width="30" height="20" style="border: 2px solid black;">: {{ convo.bot}}</p>
         </div>
         {% endfor %}
 

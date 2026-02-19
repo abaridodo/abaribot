@@ -4,8 +4,6 @@ from dotenv import load_dotenv
 import openai
 from pinecone import Pinecone
 
-from populate import populate
-
 load_dotenv()
 # OpenAI API Key
 openai.api_key = os.getenv('OPENAI_API_KEY')
@@ -50,7 +48,6 @@ def query(user_question):
     except Exception as e:
         return f"Error querying the database: {str(e)}"
 
-# Example Usage
 if __name__ == "__main__":
     while True:
         question = input("You: ")

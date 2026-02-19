@@ -4,3 +4,5 @@ flask-restx==0.5.1
 pinecone
 openai
 python-dotenv
+gunicorn==21.2.0
+supabase

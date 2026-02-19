@@ -11,6 +11,6 @@ Your AI assistant capable of answering questions about your documents and having
 - Embedding models: OpenAI text-embedding-3-small00.
 - Dababase: Supabase (PostgreSQL).
 - Deployment: Docker, Vercel.
-- Framework: Langchain, Flask.
+- Framework: Langchain, FastAPI, ReactJS
 ---
 <img src="convo_capture.png" alt="Example of conversation" width="300" height="200" style="border: 2px solid black;">
